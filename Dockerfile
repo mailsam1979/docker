@@ -1,7 +1,7 @@
 FROM php:7.1-apache
-sukAnta
-kum111111ar
-sahoHHHHHHo
+sukanta
+kumar
+sahoo
 COPY src/ /var/www/html
 EXPOSE 80
 india
